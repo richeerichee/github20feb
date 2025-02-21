@@ -1,4 +1,4 @@
-public class helloWorld {
+public class helloworld {
 
     // method main(): ALWAYS the APPLICATION entry point
     public static void main (String[] args) {
