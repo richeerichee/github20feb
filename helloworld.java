@@ -6,5 +6,6 @@ public class helloworld {
 	    System.out.println ("hi Richard");
 	    System.out.println ("welcome to the java");
 	    System.out.println ("you have complied with git");
+	    System.out.println ("build after this build");
     }
 }
